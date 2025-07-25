@@ -1,5 +1,12 @@
 # todo_app
 
+## 📲 Download APK
+
+You can try the app by downloading the latest APK file below:
+
+[⬇️ Download app-release.apk](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+
+
 # Todo App (Flutter)
 
 A simple cross-platform Todo app with Google Sign-In, Firebase (optional), and clean UI.
