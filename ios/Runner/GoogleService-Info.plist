@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>984471514419-8tb8a4rprb0qmvit2ua96hlfugaup6ab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.984471514419-8tb8a4rprb0qmvit2ua96hlfugaup6ab</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>984471514419-m72m5r0eocqudh36tokap1l65sn494b3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6xATq-1hCO7AeepDzZM8S_Tt9fkFKBX0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>984471514419</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.katomaran.todoApp</string>
+	<key>PROJECT_ID</key>
+	<string>todo-katomaran-1894c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-katomaran-1894c.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:984471514419:ios:fe2a14fc73c7bd8d796246</string>
+</dict>
+</plist>

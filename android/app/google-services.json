@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984471514419",
+    "project_id": "todo-katomaran-1894c",
+    "storage_bucket": "todo-katomaran-1894c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984471514419:android:cac30d09878b50c8796246",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE8mLriEdPzv78QuubTXu2_vkuQ8BnQFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
