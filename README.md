@@ -4,7 +4,7 @@
 
 You can try the app by downloading the latest APK file below:
 
-[⬇️ Download app-release.apk](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+[⬇️ Download app-release.apk](https://drive.google.com/file/d/18rl90K0ph7LqUl5gyq98PzUVy70F3MOO/view?usp=sharing)
 
 
 # Todo App (Flutter)
