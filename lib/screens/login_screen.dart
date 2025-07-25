@@ -9,7 +9,7 @@ class LoginScreen extends StatelessWidget {
     final AuthService _authService = AuthService();
 
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 187, 166, 218),
+      backgroundColor: const Color.fromARGB(255, 220, 206, 240),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(24.0),
@@ -27,8 +27,8 @@ class LoginScreen extends StatelessWidget {
                 icon: const Icon(Icons.g_mobiledata, size: 32),
                 label: const Text('Sign in with Google'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.deepPurple,
-                  foregroundColor: const Color.fromARGB(255, 166, 119, 236),
+                  backgroundColor: const Color.fromARGB(255, 149, 107, 221),
+                  foregroundColor: const Color.fromARGB(255, 196, 177, 223),
                   padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
                 ),
                 onPressed: () async {
