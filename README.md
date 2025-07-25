@@ -19,6 +19,7 @@ A simple cross-platform Todo app with Google Sign-In, Firebase (optional), and c
 ```bash
 flutter pub get
 flutter run
+```
 
 
 This project is a part of a hackathon run by
