@@ -1,16 +1,25 @@
 # todo_app
 
-A new Flutter project.
+# Todo App (Flutter)
 
-## Getting Started
+A simple cross-platform Todo app with Google Sign-In, Firebase (optional), and clean UI.
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- Add, edit, delete tasks
+- Mark tasks complete
+- Set due dates
+- Firebase authentication (Google Sign-In)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tech Stack
+- Flutter
+- Dart
+- Firebase (Auth)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Getting Started
+```bash
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+This project is a part of a hackathon run by
+https://www.katomaran.com
